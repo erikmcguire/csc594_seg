@@ -1,8 +1,8 @@
 # Commonsense Knowledge Mining from Pretrained Models
-This repo contains the experiments from the paper "Commonsense Knowledge Mining
+[This repo](https://github.com/JoshFeldman95/Extracting-CK-from-Large-LM) contains the experiments from the paper "Commonsense Knowledge Mining
 from Pretrained Models" by Joshua Feldman, Joe Davison, and Sasha Rush.
 
-We modified the code for the course project, condensing to its more focused purpose.
+We modified the shared code for the course project, condensing to its more focused purpose.
 
 # Usage
 ## Commonsense Knowledge Base Completion Experiments
