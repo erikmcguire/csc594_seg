@@ -1,5 +1,3 @@
-TODO: Update ipynb notebooks. These are from archive submitted for course deadline, but have since been updated as bugs were noted.
-
 ## Colab Notebooks
 
 * [ROCVADER](https://colab.research.google.com/drive/1sqFDA6upxMF-IHrUhc2W0Dgi3DgLQYAr)
