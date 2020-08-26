@@ -16,3 +16,5 @@
 │   └── transformers                 # Installed from HuggingFace.
 └── ...
 </pre>
+
+> Data folders can be found [here](https://drive.google.com/file/d/1kln_MWhgjuffYAnmOKCcnNCa3M9sIfMl/view?usp=sharing).
